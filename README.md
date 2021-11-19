@@ -4,3 +4,7 @@
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me; Discord: MIfoodie#9147 
 
+
+ # Projects and Repositorys
+ 
+*None here yet, come back soon!*
