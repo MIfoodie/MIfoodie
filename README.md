@@ -5,6 +5,6 @@
 - 📫 How to reach me; Discord: MIfoodie#9147 
 
 
- # Projects and Repositorys
+ # Projects and Repositories
  
 *None here yet, come back soon!*
