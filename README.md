@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @MIfoodie
-- 👀 I’m interested in game design, hacking, and engineering
-- 🌱 I’m currently learning Lua in Roblox Studio
+- 👀 I’m interested in game design and engineering (electrical + 3D printing)
+- 🌱 I’m currently learning just about everything 😅
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me; Discord: MIfoodie#9147 
 
-
- # Projects and Repositories
- 
- None here yet!
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mifoodie)](https://github.com/ryo-ma/github-profile-trophy)
